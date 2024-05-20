@@ -1,7 +1,7 @@
 {
   "flights": [
     {
-      "flightNumber": "4OO",
+      "flightNumber": "400",
       "departureAirport": "SYD",
       "arrivalAirport": "OOL",
       "scheduledTimeOut": "2000Z",
